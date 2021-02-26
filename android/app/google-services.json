@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1042471903791",
+    "project_id": "ecomv1",
+    "storage_bucket": "ecomv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042471903791:android:c628e6910527ecc099dcda",
+        "android_client_info": {
+          "package_name": "com.example.himaecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042471903791-6mn9kq62rcv44ri2o8unr6eaghihmsgd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.himaecommerce",
+            "certificate_hash": "c2369135e5d5ebeef8c5147d8b3953227ecec24d"
+          }
+        },
+        {
+          "client_id": "1042471903791-aa5ge0p9sg0i1e2e1u1hk66khf9h9ie6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxuYcH1o_MOLj-omRpIVdck7OPM3PxhrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042471903791-aa5ge0p9sg0i1e2e1u1hk66khf9h9ie6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
